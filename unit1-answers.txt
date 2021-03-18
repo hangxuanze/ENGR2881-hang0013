@@ -1,115 +1,115 @@
 ## Specify the OSI Layer to which best matches each statement
 # Question 'ab': Which layer best fits this statement: Provides support for common services
-ab=
+ab=7
 # Question 'ac': Which layer best fits this statement: Responsible for electromagnetic spectrum allocation
-ac=
+ac=2
 # Question 'ad': Which layer best fits this statement: Can provide transparent conversion between different file types
-ad=
+ad=6
 # Question 'ae': Which layer best fits this statement: Detects and reacts to congestion on network path between distant nodes
-ae=
+ae=5
 # Question 'af': Which layer best fits this statement: Responsible for human-computer interaction
-af=
+af=7
 # Question 'ag': Which layer best fits this statement: Responsible for the forwarding or messages or packets
-ag=
+ag=4
 # Question 'ah': Which layer best fits this statement: Provides globally addressable identifiers for nodes on large networks
-ah=
+ah=3
 # Question 'ai': Which layer best fits this statement: Provides the interface for programmes to access network services
-ai=
+ai=3
 # Question 'aj': Which layer best fits this statement: Allows for the recovery of a lost connection
-aj=
+aj=5
 # Question 'ak': Which layer best fits this statement: Establishes the relationship between a network device and transmission medium
-ak=
+ak=2
 # Question 'al': Which layer best fits this statement: Responsible for closing a connection, especially where it involves multiple resources
-al=
+al=1
 # Question 'am': Which layer best fits this statement: Interprets the address in the header to determine which receiver on a local network segment should receive it.
-am=
+am=3
 # Question 'an': Which layer best fits this statement: Responsible for electromagnetic compatibility
-an=
+an=1
 # Question 'ao': Which layer best fits this statement: Responsible for logical link control
-ao=
+ao=2
 # Question 'ap': Which layer best fits this statement: Defines the physical specifications of a data connection
-ap=
+ap=1
 # Question 'aq': Which layer best fits this statement: Defines the electrical specifications of a data connection
-aq=
+aq=1
 ## Specify the OSI Layer to which each protocol corresponds
 # Question 'ar': To which layer does this protocol correspond?: Datagram Congestion Control Protocol (DCCP)
-ar=
+ar=4
 # Question 'as': To which layer does this protocol correspond?: TFTP
-as=
+as=7
 # Question 'at': To which layer does this protocol correspond?: HTTPS
-at=
+at=7
 # Question 'au': To which layer does this protocol correspond?: CLNP
-au=
+au=3
 # Question 'av': To which layer does this protocol correspond?: NetBIOS
-av=
+av=4
 # Question 'aw': To which layer does this protocol correspond?: IEEE 802.16
-aw=
+aw=2
 # Question 'ax': To which layer does this protocol correspond?: ARCnet
-ax=
+ax=2
 # Question 'ay': To which layer does this protocol correspond?: Message Transfer Part (Q.710)
-ay=
+ay=2
 # Question 'az': To which layer does this protocol correspond?: Fibre Channel Protocol (FCP)
-az=
+az=4
 # Question 'ba': To which layer does this protocol correspond?: Fiber distributed data interface (FDDI)
-ba=
+ba=2
 # Question 'bb': To which layer does this protocol correspond?: Distributed Multi-Link Trunking
-bb=
+bb=2
 # Question 'bc': To which layer does this protocol correspond?: Multiprotocol Label Switching (MPLS)
-bc=
+bc=2.5
 # Question 'bd': To which layer does this protocol correspond?: NetBEUI
-bd=
+bd=5
 # Question 'be': To which layer does this protocol correspond?: Transaction Capabilities Application Part (TCAP)
-be=
+be=7
 # Question 'bf': To which layer does this protocol correspond?: Simple Object Access Protocol (SOAP)
-bf=
+bf=7
 # Question 'bg': To which layer does this protocol correspond?: 100BASE-FX
-bg=
+bg=1
 # Question 'bh': Can applications on nodes 1 and 3 communicate?
-bh=
+bh=Y
 # Question 'bi': If an application on node 0 sends 402 bytes of byte, how large would the PDU be at layer 2?
 bi=
 # Question 'bj': What is the data rate that is possible between nodes 0 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bj=
+bj=9091
 # Question 'bk': How many milli-seconds would it take node 0 to send 94 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bk=
+bk=11
 # Question 'bl': Can applications on nodes 2 and 1 communicate?
-bl=
+bl=Y
 # Question 'bm': If an application on node 1 sends 685 bytes of byte, how large would the PDU be at layer 5?
 bm=
 # Question 'bn': What is the data rate that is possible between nodes 1 and 1? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bn=
+bn=3778
 # Question 'bo': How many milli-seconds would it take node 1 to send 9338 bytes of data to node 1? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bo=
+bo=828
 # Question 'bp': Can applications on nodes 3 and 4 communicate?
-bp=
+bp=Y
 # Question 'bq': If an application on node 2 sends 498 bytes of byte, how large would the PDU be at layer 3?
 bq=
 # Question 'br': What is the data rate that is possible between nodes 2 and 4? {\em Provide the exact number of kilo-bits per second as your answer.} 
-br=
+br=9916
 # Question 'bs': How many milli-seconds would it take node 2 to send 686 bytes of data to node 4? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bs=
+bs=540
 # Question 'bt': Can applications on nodes 1 and 2 communicate?
-bt=
+bt=Y
 # Question 'bu': If an application on node 3 sends 126 bytes of byte, how large would the PDU be at layer 5?
 bu=
 # Question 'bv': What is the data rate that is possible between nodes 3 and 2? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bv=
+bv=4305
 # Question 'bw': How many milli-seconds would it take node 3 to send 5514 bytes of data to node 2? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-bw=
+bw=953
 # Question 'bx': Can applications on nodes 2 and 3 communicate?
-bx=
+bx=Y
 # Question 'by': If an application on node 2 sends 102 bytes of byte, how large would the PDU be at layer 3?
 by=
 # Question 'bz': What is the data rate that is possible between nodes 2 and 3? {\em Provide the exact number of kilo-bits per second as your answer.} 
-bz=
+bz=6466
 # Question 'ca': How many milli-seconds would it take node 2 to send 8182 bytes of data to node 3? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
-ca=
+ca=508
 # Question 'cb': Can applications on nodes 4 and 5 communicate?
-cb=
+cb=Y
 # Question 'cc': If an application on node 3 sends 636 bytes of byte, how large would the PDU be at layer 5?
 cc=
 # Question 'cd': What is the data rate that is possible between nodes 3 and 5? {\em Provide the exact number of kilo-bits per second as your answer.} 
-cd=
+cd=1794
 # Question 'ce': How many milli-seconds would it take node 3 to send 4760 bytes of data to node 5? {\em Provide the exact number of milli-seconds as your answer, rounded down to the nearest whole number.}
 ce=
 # Question 'cf': Can applications on nodes 4 and 0 communicate?
