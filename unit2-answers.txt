@@ -1,12 +1,12 @@
 ## Socket Programming General True or False Statements
 # Question 'ab': True or false: The write() function for the C programming language can result in a `broken pipe' condition.
-ab=
+ab=True
 # Question 'ac': True or false: The socket() function for the C programming language sets the address of a network socket
-ac=
+ac=False
 # Question 'ad': True or false: The socket() function for the C programming language creates a network socket
-ad=
+ad=True
 # Question 'ae': True or false: The write() function for the C programming language can be used to write data to a socket.
-ae=
+ae=False
 # Question 'af': True or false: The close() function for the C programming language can be called by either the initiator or receiver of a socket connection.
 af=
 # Question 'ag': True or false: The listen() function for the C programming language causes a socket to actively connect via the network to listen for applications that require it.
