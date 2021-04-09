@@ -1,0 +1,151 @@
+## Quiz #1: Chapters 1 to 3
+# Question 'ab': True or false: Core network technologies are evolving more slowly than access networks
+ab=
+# Question 'ac': True or false: For long-distance oceanic internet cable links minimising the bandwidth delay product is a primary goal
+ac=
+# Question 'ad': True or false: Network Application Programming Interfaces are typically provided by the network adaptor's hardware
+ad=
+# Question 'ae': True or false: The Last Acknowledged Frame minus the Last Frame Received must be no larger than the Receive Window Size
+ae=
+# Question 'af': True or false: Certain frequencies are reserved for specific uses, but only within certain geographical areas of each country to ensure that all frequencies are available for wireless communications in most locations
+af=
+# Question 'ag': True or false: 802.11 uses Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+ag=
+# Question 'ah': True or false: Wireless links transmit using electromagnetic signals, typically at radio, microwave or infra-red wavelengths
+ah=
+# Question 'ai': True or false: BISYNC frames typically start with a SYN character and end with CRC characters
+ai=
+# Question 'aj': True or false: When a packet is sent on a connectionless network, the sender has to provide the information for the path the packet should take
+aj=
+# Question 'ak': True or false: The TCP port number must be discovered using ARP before an HTTP request can be made
+ak=
+# Question 'al': True or false: The international standard for CRC generator polynomials is to allocate a unique generator polynomial each time one is required
+al=
+# Question 'am': True or false: When a node wishes to transmit a frame, it requests the network adaptor to do this
+am=
+# Question 'an': True or false: Both sender and receiver must implement the same error detection algorithm
+an=
+# Question 'ao': True or false: Direct Sequence transmission involves the transmission of n-bit chipping codes that spread the signal across a frequency band that is n times wider
+ao=
+# Question 'ap': True or false: The Internet Architecture, like the OSI model, uses strict layering
+ap=
+# Question 'aq': True or false: Bluetooth is a wireless technology often used to connect peripherals, like headphones, to cellular network towers
+aq=
+# Question 'ar': True or false: Satellite communications typically use similar frequencies to terrestrial microwave communications
+ar=
+# Question 'as': True or false: As a message goes down through a network stack, it is encapsulated and becomes larger
+as=
+# Question 'at': True or false: Increasing the bandwidth results in slower transfers, unless there are enough transfers to fill the extra bandwidth
+at=
+# Question 'au': True or false: In 802.11, if both DS bits are set to 1, the fourth address field identifies the original source
+au=
+# Question 'av': True or false: Adding more hosts to a switched network does not necessarily degrade performance for all users
+av=
+# Question 'aw': True or false: DDCMP's byte-counting approach results in reduced efficiency due to the need to include the byte count field
+aw=
+# Question 'ax': True or false: The Internet Protocol uses a CRC to detect transmission errors
+ax=
+# Question 'ay': True or false: If a node receives an RTS frame, but not a CTS frame, it is free to transmit if it wishes
+ay=
+# Question 'az': True or false: It is the role of the Network Designer to design a cost-effective network with shareable resources
+az=
+# Question 'ba': True or false: computer networks enable access to services such as social media
+ba=
+# Question 'bb': True or false: The performance of the Sliding Window protocol can be improved through negative, additional or selective acknowledgement
+bb=
+# Question 'bc': True or false: When two Ethernet devices attempt to transmit at the same time, the result is collision
+bc=
+# Question 'bd': True or false: The Service Interface of a protocol is used to operate on the messages exchanged with peers using the protocol
+bd=
+# Question 'be': True or false: NRZ requires clock-recovery logic
+be=
+# Question 'bf': True or false: A piconet is a Bluetooth personal area network where all devices are within 1 metre of each other, which allows for lower power consumption
+bf=
+# Question 'bg': True or false: For very small amounts of data the propagation time is more important than the transmission speed
+bg=
+# Question 'bh': True or false: In 802.11, the term active scanning refers to the way in which access points actively scan for new clients
+bh=
+# Question 'bi': True or false: CRCs are strong enough to correct errors
+bi=
+# Question 'bj': True or false: 5G networks offer higher speed and lower latency compared with earlier generations
+bj=
+# Question 'bk': True or false: Selective Acknowledgement involves sending ACKS when something that might affect throughput occurs, thus reducing the number of ACKs that need to be sent
+bk=
+# Question 'bl': True or false: 802.11 frames normally contain two address fields: source and destination
+bl=
+# Question 'bm': True or false: The Sliding Window Protocol helps provide reliability in the face of packet loss, in-order reception of data and throttling of the sender's transmission rate
+bm=
+# Question 'bn': True or false: A client does not normally care about the local port number when making a connection.
+bn=
+# Question 'bo': True or false: Routers need only implement the lower layers of a network protocol stack
+bo=
+# Question 'bp': True or false: Switches can implement either datagram or virtual circuit approaches
+bp=
+# Question 'bq': True or false: The data link layer handles the transmission of raw bits over a communications link
+bq=
+# Question 'br': True or false: Ethernet frames must contain at least 46 bytes of data
+br=
+# Question 'bs': True or false: Spread-spectrum transmission is a requirement for using license-free frequencies in many countries
+bs=
+# Question 'bt': True or false: DDCMP (Digital Data Communications Protocol) is a byte-oriented framing protocol
+bt=
+# Question 'bu': True or false: CRCs are a common technique for detecting transmission errors
+bu=
+# Question 'bv': True or false: The Last Acknowledgement Received plus the Sliding Window Size must be no larger than the Last Frame Sent
+bv=
+# Question 'bw': True or false: The broadcast address on an Ethernet network consists of all 1s
+bw=
+# Question 'bx': True or false: An advantage with Manchester encoding is that it doubles the rate of signal transitions compared with NRZ encoding
+bx=
+# Question 'by': True or false: Mobility between base stations is not a property of all commonly used wireless communications technologies
+by=
+# Question 'bz': True or false: Bluetooth is used to connect mobile phones, network computers and other personal devices because it provides higher bandwidth at short ranges than Wi-Fi can provide
+bz=
+# Question 'ca': True or false: Hertz refers to the wave-length of an electromagnetic wave
+ca=
+# Question 'cb': True or false: The listen() function is called by a server each time it wishes to listen for a new connection
+cb=
+# Question 'cc': True or false: When using the Sliding Window Protocol, the sender has to be willing to buffer up to SWS (Sliding Window Size) frames
+cc=
+# Question 'cd': True or false: Client/Server is a common communications pattern
+cd=
+# Question 'ce': True or false: Ethernet jamming is a process by which attackers prevent wireless communications on 802.11 Wi-Fi networks
+ce=
+# Question 'cf': True or false: In 10BaseT, the T refers to the use of T-pieces to tap into the network
+cf=
+# Question 'cg': True or false: PPP uses fixed-length fields to aid synchronisation
+cg=
+# Question 'ch': True or false: An inter-network is a number of networks connected together
+ch=
+# Question 'ci': True or false: A logical channel is an application-to-application communication path
+ci=
+# Question 'cj': True or false: The Internet Protocol error detection uses a 32-bit value, similar to that used in Ethernet
+cj=
+# Question 'ck': True or false: In the Internet Architecture the application layer directly interfaces only to the transport layer, as the next layer down in the network stack.
+ck=
+# Question 'cl': True or false: Increased separation of software and hardware in network devices is powering network innovation
+cl=
+# Question 'cm': True or false: For short transfers latency is more important than bandwidth
+cm=
+# Question 'cn': True or false: 802.11b supports higher transfer speeds than 802.11a
+cn=
+# Question 'co': True or false: If two nodes send an RTS frame at the same time a collision occurs which cannot be detected on an 802.11 network
+co=
+# Question 'cp': True or false: Original Ethernet used cable similar to that of cable TV
+cp=
+# Question 'cq': True or false: The send() function is used to send a connection request to a server
+cq=
+# Question 'cr': True or false: The stop-and-wait protocol stops to wait only if an ACK frame is lost
+cr=
+# Question 'cs': True or false: Typical round-trip delays on Ethernets are less than 10 micro seconds
+cs=
+# Question 'ct': True or false: Eavesdropping on network traffic is not a network reliability problem
+ct=
+# Question 'cu': True or false: Most widely used wireless links consist solely of very similar devices
+cu=
+# Question 'cv': True or false: Only four repeaters can be used in a single Ethernet cable path
+cv=
+# Question 'cw': True or false: MAN stands for Multiplexing Area Network
+cw=
+# Question 'cx': True or false: Permanent virtual circuits require the installation of dedicated hardware, which must not be removed until the virtual circuit is deleted
+cx=
