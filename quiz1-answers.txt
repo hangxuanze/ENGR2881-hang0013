@@ -1,20 +1,20 @@
 ## Quiz #1: Chapters 1 to 3
 # Question 'ab': True or false: Core network technologies are evolving more slowly than access networks
-ab=
+ab=f
 # Question 'ac': True or false: For long-distance oceanic internet cable links minimising the bandwidth delay product is a primary goal
-ac=
+ac=t
 # Question 'ad': True or false: Network Application Programming Interfaces are typically provided by the network adaptor's hardware
-ad=
+ad=t
 # Question 'ae': True or false: The Last Acknowledged Frame minus the Last Frame Received must be no larger than the Receive Window Size
-ae=
+ae=f
 # Question 'af': True or false: Certain frequencies are reserved for specific uses, but only within certain geographical areas of each country to ensure that all frequencies are available for wireless communications in most locations
-af=
+af=t
 # Question 'ag': True or false: 802.11 uses Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
-ag=
+ag=t
 # Question 'ah': True or false: Wireless links transmit using electromagnetic signals, typically at radio, microwave or infra-red wavelengths
-ah=
+ah=t
 # Question 'ai': True or false: BISYNC frames typically start with a SYN character and end with CRC characters
-ai=
+ai=t
 # Question 'aj': True or false: When a packet is sent on a connectionless network, the sender has to provide the information for the path the packet should take
 aj=
 # Question 'ak': True or false: The TCP port number must be discovered using ARP before an HTTP request can be made
