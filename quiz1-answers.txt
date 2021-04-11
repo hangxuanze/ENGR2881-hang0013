@@ -16,13 +16,13 @@ ah=t
 # Question 'ai': True or false: BISYNC frames typically start with a SYN character and end with CRC characters
 ai=t
 # Question 'aj': True or false: When a packet is sent on a connectionless network, the sender has to provide the information for the path the packet should take
-aj=
+aj=t
 # Question 'ak': True or false: The TCP port number must be discovered using ARP before an HTTP request can be made
-ak=
+ak=t
 # Question 'al': True or false: The international standard for CRC generator polynomials is to allocate a unique generator polynomial each time one is required
-al=
+al=f
 # Question 'am': True or false: When a node wishes to transmit a frame, it requests the network adaptor to do this
-am=
+am=t
 # Question 'an': True or false: Both sender and receiver must implement the same error detection algorithm
 an=
 # Question 'ao': True or false: Direct Sequence transmission involves the transmission of n-bit chipping codes that spread the signal across a frequency band that is n times wider
