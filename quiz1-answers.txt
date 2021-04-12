@@ -24,9 +24,10 @@ al=f
 # Question 'am': True or false: When a node wishes to transmit a frame, it requests the network adaptor to do this
 am=t
 # Question 'an': True or false: Both sender and receiver must implement the same error detection algorithm
-an=
+an=f
 # Question 'ao': True or false: Direct Sequence transmission involves the transmission of n-bit chipping codes that spread the signal across a frequency band that is n times wider
-ao=
+ao=t
+
 # Question 'ap': True or false: The Internet Architecture, like the OSI model, uses strict layering
 ap=
 # Question 'aq': True or false: Bluetooth is a wireless technology often used to connect peripherals, like headphones, to cellular network towers
