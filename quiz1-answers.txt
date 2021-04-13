@@ -29,13 +29,13 @@ an=f
 ao=t
 
 # Question 'ap': True or false: The Internet Architecture, like the OSI model, uses strict layering
-ap=
+ap=t
 # Question 'aq': True or false: Bluetooth is a wireless technology often used to connect peripherals, like headphones, to cellular network towers
-aq=
+aq=f
 # Question 'ar': True or false: Satellite communications typically use similar frequencies to terrestrial microwave communications
-ar=
+ar=f
 # Question 'as': True or false: As a message goes down through a network stack, it is encapsulated and becomes larger
-as=
+as=t
 # Question 'at': True or false: Increasing the bandwidth results in slower transfers, unless there are enough transfers to fill the extra bandwidth
 at=
 # Question 'au': True or false: In 802.11, if both DS bits are set to 1, the fourth address field identifies the original source
