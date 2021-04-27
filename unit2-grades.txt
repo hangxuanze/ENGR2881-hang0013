@@ -1,0 +1,14 @@
+unit2 PROVISIONAL GRADE: P
+
+NOTE: Changes made after Tue Apr 27 13:45:59 2021 +0930 have not yet been graded.
+
+SUMMARY: 15 true/false and yes/no questions: 8 correct, 7 incorrect.
+         (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
+         21 normal questions, 12 correct.
+
+ANSWERS GRADED I: 
+ANSWERS GRADED F:  aq aw ba bb bc be bg bi bk
+ANSWERS GRADED P: 
+ANSWERS GRADED CR:
+ANSWERS GRADED DN:
+ANSWERS GRADED HD:
