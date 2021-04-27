@@ -47,37 +47,37 @@ ax=t
 # Question 'ay': True or false: The topology of this network is a ad-hoc
 ay=f
 # Question 'az': True or false: The topology of this network is a star
-az=
+az=t
 # Question 'ba': True or false: The topology of this network is a line
-ba=
+ba=f
 # Question 'bb': True or false: The topology of this network is a ad-hoc
-bb=
+bb=f
 # Question 'bc': True or false: The topology of this network is a wireless
-bc=
+bc=f
 # Question 'bd': True or false: The topology of this network is a full mesh
-bd=
+bd=t
 # Question 'be': True or false: The topology of this network is a ad-hoc
-be=
+be=t
 # Question 'bf': True or false: The topology of this network is a bus
-bf=
+bf=f
 # Question 'bg': True or false: The topology of this network is a ad-hoc
-bg=
+bg=t
 # Question 'bh': True or false: The topology of this network is a ad-hoc
-bh=
+bh=f
 # Question 'bi': True or false: The topology of this network is a wireless
-bi=
+bi=f
 # Question 'bj': True or false: The topology of this network is a wireless
-bj=
+bj=f
 # Question 'bk': True or false: The topology of this network is a bus
-bk=
+bk=t
 # Question 'bl': True or false: The topology of this network is a ring
-bl=
+bl=f
 # Question 'bm': True or false: The topology of this network is a tree
-bm=
+bm=f
 # Question 'bn': True or false: The topology of this network is a ring
-bn=
+bn=f
 # Question 'bo': True or false: The topology of this network is a star
-bo=
+bo=t
 # Question 'bp': Define a network that consists of a ad-hoc network and a wireless network connected by a bus}
 BEGIN:bp
 END:bp
