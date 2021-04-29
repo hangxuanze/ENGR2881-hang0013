@@ -30,13 +30,13 @@ ao=f
 # Question 'ap': True or false: The write() function for the C programming language is used to reply to a read() request from a server.
 ap=t
 ## Correct the lines in the supplied programme
-aq=9
+aq=8
 ar=2
 as=5
 at=6
 au=4
 av=1
-aw=8
+aw=9
 ax=3
 ay=7
 ## Correct the lines in the supplied programme
