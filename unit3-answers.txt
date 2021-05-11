@@ -83,6 +83,13 @@ BEGIN:bp
 END:bp
 # Question 'bq': Define a network that consists of a bus network and a wireless network connected by a switch}
 BEGIN:bq
+switch1:0 laptop2
+switch1:1 ap6
+laptop2 bus3
+bus3 node4
+bus3 node5
+ap6 laptop7
+ap6 laptop8
 END:bq
 # Question 'br': Define a network that consists of a ad-hoc network and a bus network connected by a laptop}
 BEGIN:br
@@ -92,12 +99,23 @@ BEGIN:bs
 END:bs
 # Question 'bt': Define a network that consists of a ring network and a ring network connected by a router}
 BEGIN:bt
+router1 laptop2
+router1 laptop6
+laptop2 laptop3
+laptop2 laptop4
+laptop3 laptop5
+laptop4 laptop5
+laptop6 laptop7
+laptop6 laptop8
+laptop7 laptop9
+laptop8 laptop9
 END:bt
 # Question 'bu': Define a network that consists of a ad-hoc network and a wireless network connected by a router}
 BEGIN:bu
 END:bu
 # Question 'bv': Define a network that consists of a star network and a bus network connected by a switch}
 BEGIN:bv
+
 END:bv
 # Question 'bw': Define a network that consists of a full mesh network and a ad-hoc network connected by a laptop}
 BEGIN:bw
