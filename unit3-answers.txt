@@ -80,12 +80,18 @@ bn=f
 bo=t
 # Question 'bp': Define a network that consists of a ad-hoc network and a wireless network connected by a bus}
 BEGIN:bp
+bus1 laptop2
+bus1 ap6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+ap6 laptop7
+ap6 laptop8
 END:bp
 # Question 'bq': Define a network that consists of a bus network and a wireless network connected by a switch}
 BEGIN:bq
-switch1:0 laptop2
+switch1:0 bus3
 switch1:1 ap6
-laptop2 bus3
 bus3 node4
 bus3 node5
 ap6 laptop7
@@ -93,9 +99,25 @@ ap6 laptop8
 END:bq
 # Question 'br': Define a network that consists of a ad-hoc network and a bus network connected by a laptop}
 BEGIN:br
+laptop1 laptop2
+laptop1 bus6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+bus6 laptop7
+bus6 laptop8
 END:br
 # Question 'bs': Define a network that consists of a ring network and a ad-hoc network connected by a switch}
 BEGIN:bs
+switch1:0 laptop2
+switch1:1 laptop6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+laptop6 laptop7
+laptop7 laptop8
+laptop8 laptop9
+laptop9 laptop6
 END:bs
 # Question 'bt': Define a network that consists of a ring network and a ring network connected by a router}
 BEGIN:bt
@@ -112,6 +134,13 @@ laptop8 laptop9
 END:bt
 # Question 'bu': Define a network that consists of a ad-hoc network and a wireless network connected by a router}
 BEGIN:bu
+router1 laptop2
+router1 ap6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+ap6 laptop7
+ap6 laptop8
 END:bu
 # Question 'bv': Define a network that consists of a star network and a bus network connected by a switch}
 BEGIN:bv
@@ -126,6 +155,17 @@ laptop5 laptop9
 END:bv
 # Question 'bw': Define a network that consists of a full mesh network and a ad-hoc network connected by a laptop}
 BEGIN:bw
+laptop1 laptop2
+laptop1 laptop6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+laptop6 laptop7
+laptop6 laptop8
+laptop6 laptop9
+laptop7 laptop8
+laptop7 laptop9
+laptop8 laptop9
 END:bw
 # Question 'bx': Define a network that consists of a full mesh network and a bus network connected by a node}
 BEGIN:bx
@@ -142,9 +182,8 @@ node7 node8
 END:bx
 # Question 'by': Define a network that consists of a bus network and a ring network connected by a bus}
 BEGIN:by
-bus1 node2
+bus1 bus9
 bus1 node5
-node2 bus9
 bus9 node3
 bus9 node4
 node5 node6
@@ -178,6 +217,13 @@ node7 node8
 END:ca
 # Question 'cb': Define a network that consists of a ad-hoc network and a bus network connected by a bus}
 BEGIN:cb
+bus1 laptop2
+bus1 bus6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+bus6 laptop7
+bus6 laptop8
 END:cb
 # Question 'cc': Define a network that consists of a star network and a star network connected by a bus}
 BEGIN:cc
@@ -194,9 +240,25 @@ node7 node11
 END:cc
 # Question 'cd': Define a network that consists of a star network and a ad-hoc network connected by a switch}
 BEGIN:cd
+switch1:0 laptop2
+switch1:1 laptop6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+laptop6 laptop7
+laptop6 laptop8
+laptop6 laptop9
 END:cd
 # Question 'ce': Define a network that consists of a ad-hoc network and a wireless network connected by a bus}
 BEGIN:ce
+bus1 laptop2
+bus1 ap6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+ap6 laptop7
+ap6 laptop8
+ap6 laptop9
 END:ce
 # Question 'cf': Define a network that consists of a wireless network and a wireless network connected by a laptop}
 BEGIN:cf
@@ -211,12 +273,36 @@ ap3 laptop9
 END:cf
 # Question 'cg': Define a network that consists of a full mesh network and a ad-hoc network connected by a router}
 BEGIN:cg
+router1 laptop2
+router1 laptop6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+laptop6 laptop7
+laptop6 laptop8
+laptop6 laptop9
+laptop7 laptop8
+laptop7 laptop9
+laptop8 laptop9
 END:cg
 # Question 'ch': Define a network that consists of a bus network and a wireless network connected by a laptop}
 BEGIN:ch
+laptop1 bus2
+laptop1 ap5
+bus2 laptop3
+bus2 laptop4
+ap5 laptop6
+ap5 laptop7
 END:ch
 # Question 'ci': Define a network that consists of a ad-hoc network and a bus network connected by a laptop}
 BEGIN:ci
+laptop1 laptop2
+laptop1 bus6
+laptop2 ap3
+ap3 laptop4
+ap3 laptop5
+bus6 laptop7
+bus6 laptop8
 END:ci
 # Question 'cj': Define a network layout that would be suitable for a Client-Server architecture}
 BEGIN:cj
