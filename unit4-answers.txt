@@ -1,9 +1,14 @@
 ## Demonstrate an understanding of current methods for secure information transfer}
 # Question 'ab': Write not more than 250 words about 'political/commercial impacts on digital security'
 BEGIN:ab
+digital security includes government digital security and enterprise digital security
+Government digital security involves state secrets and public interests
+Enterprise digital security involves business secrets and enterprise rights and interests
+If any aspect of digital security is not handled properly, it will ultimately affect political security, social stability and national prosperity and decline.
 END:ab
 # Question 'ac': Write not more than 250 words about 'forward secrecy in encryption algorithms'
 BEGIN:ac
+It is the security attribute of communication protocol in cryptography, which means that the long-term master key leakage will not lead to the past session key leakage. Forward security can protect the past communication from the threat of password or key exposure in the future. If the system has forward security, it can ensure the security of historical communication when the master key is leaked, even if the system is attacked actively
 END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
@@ -11,7 +16,7 @@ BEGIN:ad
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
-ae=
+ae=n
 # Question 'af': Write a false statement about the content of Slide 96 of Chapter 3
 af=
 # Question 'ag': Write a true statement about the content of Slide 34 of Chapter 4
