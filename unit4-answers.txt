@@ -13,27 +13,33 @@ END:ac
 ## Demonstrate an understanding of emerging methods for secure information transfer}
 # Question 'ad': Write not more than 250 words about any of the items on the timeline at https://www.feistyduck.com/ssl-tls-and-pki-history/
 BEGIN:ad
+Chrome's address bar defaults to HTTPS
+As early as the chrome 68 era, Google browser experimented with the "secure hypertext protocol" (HTTPS) version of the default display URL, rather than the already insecure "Hypertext Transfer Protocol" (HTTP). In the twinkling of an eye, in 2021, Google is brewing another change to chrome - the default boot to a secure http address. At the same time, it hides irrelevant parts (such as www. prefix) on the omnibox.
+Since the spread of HTTPS, Google browser has been trying to hide secure parts of the URL, such as https://www. Such prefixes.
+However, after typing 9to5google.com and pressing enter, older browsers may not use htpps connections as users would like.
+The good news is, according to C hrome://flags With new tags added to the settings options and new posts on the problem tracker page, Google seems to be intent on changing the "default priority" of the address bar in the coming months.
+In other words, when users enter a web address without a protocol version in the multi-function address bar, Chrome browser will default to the HTTPS version instead of the insecure HTTP connection.
 END:ad
 ## Write statements that are true or false for various lecture slides.
 ## Write statements that are true or false for various lecture slides.
 ae=n
 # Question 'af': Write a false statement about the content of Slide 96 of Chapter 3
-af=
+af=Routing table: Built by the routing algorithm as a precursor to build the forwarding table Generally contains mapping from network numbers to last hops.
 # Question 'ag': Write a true statement about the content of Slide 34 of Chapter 4
-ag=
+ag=By the time the host gets the go-ahead to send data, it knows quite a lot about the network
 # Question 'ah': Write a true statement about the content of Slide 22 of Chapter 4
-ah=
+ah=A domain divided into area
 # Question 'ai': Write a true statement about the content of Slide 93 of Chapter 2
-ai=
+ai=an Ethernet adaptor receives all frames and accepts frames addressed to its own address.
 # Question 'aj': Write a false statement about the content of Slide 54 of Chapter 2
-aj=
+aj=An acknowledgement (ACK for short) is not a small control frame that a protocol sends back to its peer saying that it has not received the earlier frame.
 # Question 'ak': Write a false statement about the content of Slide 108 of Chapter 3
-ak=
+ak= the maximum number of hops to get across a certain network is never going to be more than 160
 # Question 'al': Write a false statement about the content of Slide 88 of Chapter 2
-al=
+al=Minimally a frame must contain at least 406 bytes of data.
 # Question 'am': Write a true statement about the content of Slide 8 of Chapter 1
-am=
+am=Application Programmer need to list the services that his application needs: delay bounded delivery of data.
 # Question 'an': Write a true statement about the content of Slide 46 of Chapter 2
-an=
+an=Modulo-2 operation is a binary algorithm, which is the core of CRC.
 # Question 'ao': Write a true statement about the content of Slide 26 of Chapter 1
-ao=
+ao=The “Network” layer is sometimes referred to as the “sub-network” or “link” layer.
