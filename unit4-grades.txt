@@ -1,20 +1,24 @@
 unit4 PROVISIONAL GRADE: F
 
-NOTE: Changes made after Wed Jun 16 12:09:04 2021 +0930 have not yet been graded.
+NOTE: Changes made after Thu Jun 17 12:38:29 2021 +0930 have not yet been graded.
 
 SUMMARY: 0 true/false and yes/no questions: 0 correct, 0 incorrect.
          (Incorrect answers cannot be shown, as that would immediately tell you how to get 100% ;)
          1 normal questions, 1 correct.
          13 long-form questions, grade distribution: Ix0 Fx0 Px0 CRx1 DNx1 HDx0
 
-ANSWERS GRADED UNMARKED: 
+ANSWERS GRADED UNMARKED:  ad af ag ah ai aj ak al am an ao
 ANSWERS GRADED F: 
 ANSWERS GRADED P: 
 ANSWERS GRADED CR: ab
 ANSWERS GRADED DN: ac
 ANSWERS GRADED HD:
-ANSWERS GRADED INCOMPLETE: ad af ag ah ai aj ak al am an ao
+ANSWERS GRADED INCOMPLETE:
 ANSWERS GRADED TOOLONG:
 
-NOTE: You have one or more answers classified as 'INCOMPLETE', which means 'Incomplete.'
-      This means that you have one or more questions that you have not yet answered.
+NOTE: You have one or more answers classified as 'UNMARKED', which means that they require manual marking.
+      This means that you need to wait until I have the chance to mark thos questions.
+      Please wait patiently, and I will continue to mark all questions as quickly as I can.
+      The provisional grade above will not take these answers into account, until they have been
+      marked.  Thus it is not uncommon to see a provision grade of `F', until all answers have been
+      marked.
